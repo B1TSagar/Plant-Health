@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121367057928",
+    "project_id": "plant-health-e395d",
+    "storage_bucket": "plant-health-e395d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121367057928:android:0af0dfc3edfd4db3b9a3bd",
+        "android_client_info": {
+          "package_name": "com.example.planthealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121367057928-f2vlb67lekmti1d9apkc5thnujo9ic4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEhwDSw-ek-zh2-zo_G0i-dZYlh7Mqbxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121367057928-f2vlb67lekmti1d9apkc5thnujo9ic4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
